@@ -62,7 +62,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: shreya_sheel [at] berkeley [dot] edu
+      email: shreya_sheel@berkeley.edu
     design:
       columns: '2'
 ---
