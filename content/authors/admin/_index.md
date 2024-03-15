@@ -35,7 +35,10 @@ education:
   courses:
     - course: PhD in Education
       institution: University of California, Berkeley
-      year: 2024
+      year: Expected 2026
+    - course: B.S in Cognitive Science – specialization in Machine Learning and Neural Computation
+      institution: University of California, San Diego
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
