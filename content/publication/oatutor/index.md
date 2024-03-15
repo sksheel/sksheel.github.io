@@ -24,13 +24,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Despite decades long establishment of effective tutoring principles, no adaptive tutoring system has been developed and open-sourced to the research community. The absence of such a system inhibits researchers from replicating adaptive learning studies and extending and experimenting with various tutoring system design directions. For this reason, adaptive learning research is primarily conducted on a small number of proprietary platforms. In this work, we aim to democratize adaptive learning research with the introduction of the first open-source adaptive tutoring system based on Intelligent Tutoring System principles. The system, we call Open Adaptive Tutor (OATutor), has been iteratively developed over three years with field trials in classrooms drawing feedback from students, teachers, and researchers. The MIT-licensed source code includes three creative commons (CC BY) textbooks worth of algebra problems, with tutoring supports authored by the OATutor project. Knowledge Tracing, an A/B testing framework, and LTI support are included.
 
 tags:
 - Source Themes

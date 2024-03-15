@@ -16,13 +16,10 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Proceedings of the 14th Learning Analytics and Knowledge Conference*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: There is little consensus over whether graphical user interfaces (GUIs) or programmatic systems are better for word processing. Even less is known about each interfaces’ affordances and limitations in the context of creating content for adaptive tutoring systems. In order to afford instructors the use of such systems with their own or adapted pedagogies, we must study their experiences in inputting their content. In this study, we conduct a between-subjects A/B test with two content authoring interfaces, a GUI and spreadsheet, to explore 32 instructors’ experiences in authoring algebra content with hints, scaffolds, images, and special characters. We study their experiences by measuring time taken, accuracy, and their perceptions of each interfaces’ usability. Our findings indicate no significant relationship between interface used and time taken authoring problems but significantly more accuracy in authoring problems in the spreadsheet interface over the GUI. Although both interfaces performed reasonably well in time taken and accuracy, both were perceived as average to low in usability, highlighting a dissonance between instructors’ perceptions and actual performances. Since both interfaces are reasonable in authoring content, other factors can be explored, such as cost and author incentive, when deciding which interface approach to take for authoring tutor content.
 
 tags:
 - Source Themes

@@ -17,13 +17,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Proceedings of the Tenth ACM Conference on Learning @ Scale*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Learning @ Scale has embraced movements that spread access to education through open and free platforms of learning. In this tutorial, we introduce OATutor (recently published at CHI'23), the field's first free and open-source adaptive tutoring system based on ITS principles and designed for rapid experimentation. The MIT-licensed platform can be deployed to git-pages in only a few clicks and supports BKT mastery-based adaptive problem selection. We demonstrate how the system can be used to rapidly run A/B experiments, analyze the data, and publish the entire tutor, content, and analysis scripts to facilitate unprecedented ease of replication and transparency, as demonstrated in a recent study comparing ChatGPT generated hints to human-tutor hints. Our four-part tutorial will include how to add lessons to the system and link to them from assignments in a MOOC platform or LMS via LTI. The structured JSON format of the four CC BY courses worth of content released with OATutor opens up avenues for researchers to apply new and existing educational data mining and NLP techniques (e.g., KC tagging) and rapidly evaluate the impact of subsequent changes on learners.
 
 tags:
 - Source Themes
