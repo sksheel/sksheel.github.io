@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Learning Sciences & Human Development PhD student
+role: Learning Sciences PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
