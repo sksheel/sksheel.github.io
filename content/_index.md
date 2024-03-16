@@ -57,10 +57,10 @@ sections:
     id: teachings
     content:
       title: Teachings
-      filters:
-        folders:
-          - teaching
-        exclude_featured: true
+      items:
+        - title: 'Digital Learning Environments - Graduate Student Instructor, UC Berkeley'
+        - url: ''
+        - date_start: 'Spring 2024'
     design:
       columns: '2'
       view: citation
