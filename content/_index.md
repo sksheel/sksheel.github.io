@@ -53,6 +53,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: teachings
+    content:
+      title: Teachings
+      filters:
+        folders:
+          - teaching
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
