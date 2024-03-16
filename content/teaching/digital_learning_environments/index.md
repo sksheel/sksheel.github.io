@@ -6,5 +6,4 @@ date: "2024-04-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
 ---
