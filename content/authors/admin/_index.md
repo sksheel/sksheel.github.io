@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Education
       institution: University of California, Berkeley
-      year: expected 2026
+      year: expected 2027
     - course: B.S in Cognitive Science – specialization in Machine Learning and Neural Computation
       institution: University of California, San Diego
       year: 2020
