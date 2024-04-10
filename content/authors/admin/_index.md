@@ -26,9 +26,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Human-AI interaction
+  - Human-Computer Interaction
   - Digital Learning Environments (online courses and Intelligent Tutoring Systems)
-  - Qualitative Research Methods
 
 # Education to show in About widget
 education:
@@ -99,5 +98,7 @@ social:
 highlight_name: true
 ---
 
-Shreya Sheel is a third year doctoral student at the University of California Berkeley’s School of Education, studying Learning Sciences and Human Development, advised by <a href="https://bse.berkeley.edu/zachary-pardos">Zachary Pardos</a>. Her research interests are in the co-design and implementation of AI-assisted technologies in postsecondary education contexts. In designing and creating “with” instead of “for” educators, she is interested in understanding the human factors behind AI-interfaces in education to center the needs, values, and experiences of the learners they impact. Her work is interdisciplinary in exploring how educators and researchers can collaborate to understand the impacts, implications, and tensions of AI to improve student learning outcomes and upward mobility in degree completion. 
+Shreya Sheel is a third year doctoral student at the University of California Berkeley’s School of Education, studying Learning Sciences and Human Development, advised by <a href="https://bse.berkeley.edu/zachary-pardos">Zachary Pardos</a>. Her research interests are in the co-design and implementation of AI-assisted technologies in postsecondary education contexts. In designing and creating “with” instead of “for” educators, she is interested in understanding the human factors behind AI-interfaces in education to center the needs, values, and experiences of the learners they impact. Her work is interdisciplinary in exploring how educators and researchers can collaborate to understand the impacts, implications, and tensions of AI to improve student learning outcomes and upward mobility in degree completion.
+
+Her current work explores how an AI-assisted equivalency system might aid administrators and faculty’s decision-making in approving course equivalencies across two-year and four-year institutions and what factors lead to greater trust in the algorithmic system.
 {style="text-align: justify;"}
