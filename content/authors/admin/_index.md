@@ -91,6 +91,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0001-6149-118X'
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
