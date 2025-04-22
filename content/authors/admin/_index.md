@@ -3,12 +3,12 @@
 title: Shreya Sheel
 
 # Full name (for SEO)
-first_name: Shreya
-last_name: Sheel
+first_name: 
+last_name: 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,7 +38,7 @@ interests:
   - Digital Learning Environments (online courses and Intelligent Tutoring Systems)
 
 education:
-  - area: PhD Education
+  - area: PhD Education - Learning Sciences and Human Development
     institution: University of California, Berkeley
     date_start: 2021-08-15
     date_end:  2027-05-15
