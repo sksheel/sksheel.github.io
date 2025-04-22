@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Shreya Sheel
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shreya
+last_name: Sheel
 
 # Status emoji
 status:
@@ -20,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Learning Sciences PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California, Berkeley
+    url: https://bse.berkeley.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,24 +44,23 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - Digital Learning Environments (online courses and Intelligent Tutoring Systems)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Education
+    institution: University of California, Berkeley
+    date_start: 2021
+    date_end: expected 2027
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S in Cognitive Science – specialization in Machine Learning and Neural Computation
+    institution: University of California, San Diego
+    date_start: 2016
+    date_end: 2020
     summary: |
       GPA: 3.8/4.0
 
@@ -84,12 +80,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: User Experience Researcher
+    company_name: McGraw Hill
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020
+    date_end: 2021
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shreya Sheel is a fourth year doctoral student at the University of California Berkeley’s School of Education, studying Learning Sciences and Human Development, advised by <a href="https://bse.berkeley.edu/zachary-pardos">Zachary Pardos</a>. Her research interests are in the co-design and implementation of AI-assisted technologies in postsecondary education contexts, centering the needs, values, and experiences of the learners they impact. Her work investigates how educators and researchers can collaborate to understand the impacts, implications, and tensions of AI to improve student learning outcomes and upward mobility in degree completion. Her current work explores how an AI-assisted equivalency system might aid administrators' and faculty’s decision-making in approving course equivalencies across institutions and what factors lead to greater trust in the algorithmic system.
