@@ -46,12 +46,7 @@ education:
     institution: University of California, San Diego
     date_start: 2016-09-15
     date_end: 2020-06-15
-    summary: |
-    Honors Senior Thesis on Segmenting in Multimedia Learning
-  button:
-      text: 'Read Thesis'
-      url: 'https://cogsci.ucsd.edu/undergraduates/honors-program/Sheel,-Shreya_Segmenting-in-Multimedia-Learning_Final.pdf'
-      GPA: 3.63/4.0
+
 
  
 work:
