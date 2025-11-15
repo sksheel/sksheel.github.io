@@ -351,14 +351,6 @@ body {
     opacity: 0.8;
 }
 
-.publication-abstract {
-    font-size: 0.95rem;
-    line-height: 1.7;
-    margin-bottom: 1rem;
-    color: var(--text-color);
-    opacity: 0.9;
-}
-
 .publication-links {
     display: flex;
     gap: 1rem;
